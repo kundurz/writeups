@@ -32,4 +32,6 @@ Each writeup is self-contained and typically includes:
 * `file`
 * `objdump`
 
-Specific tools are noted within individual writeups where relevant
+Specific tools are noted within individual writeups where relevant.
+
+*This repository is updated incrementally as part of ongoing learning.*
