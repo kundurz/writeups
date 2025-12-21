@@ -16,7 +16,7 @@ This repository is also intended as a **learning and analysis portfolio**
 
 ## Repository Structure
 * `pico/` - Writeups derived from CTF challenges on `picoctf.org`
-* `ctf-practice` - Platform-agnostic analysis of pwn-style challenges and vulnerability patterns.
+* `ctf-practice/` - Platform-agnostic analysis of pwn-style challenges and vulnerability patterns.
 
 Each writeup is self-contained and typically includes:
 * Initial static and dynamic analysis
