@@ -1,11 +1,12 @@
 # buffer overflow 0
 
-**CTF**: picoCTF 2022
-**Category:** Binary Exploitation
-**Difficulty**: Medium
+**CTF**: picoCTF 2022 <br>
+**Category:** Binary Exploitation <br>
+**Difficulty**: Medium <br>
 **Tags**: `gets`, `buffer-overflow`
 
 **Writeup by:** Linus Kundur-Zourntos
+
 #### Challenge Description
 In this challenge, you are given a binary, along with its source code that can be exploited in some way with a buffer overflow to obtain a flag. 
 #### Environment Setup
