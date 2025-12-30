@@ -1,16 +1,17 @@
 # format string 1 
 
-**CTF**: picoCTF 2024
-**Category:** Binary Exploitation
-**Difficulty**: Medium
-**Tags**: `format_string`
+**CTF**: picoCTF 2024 <br>
+**Category:** Binary Exploitation <br>
+**Difficulty**: Medium <br>
+**Tags**: `format_string` <br>
+
+**Writeup by**: Linus Kundur-Zourntos
 
 #### Challenge Description
 In this challenge, you are to exploit a program that prompts you to enter a string and then spits out that string back to you.
 
 #### Environment Setup
-Tools: `file`, `gdb`, `checksec`, `pwntools`
-
+Tools: `file`, `gdb`, `checksec`, `pwntools` <br>
 OS: Ubuntu 22.04.5 LTS x86_64
 
 #### Initial Analysis
