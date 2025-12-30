@@ -10,6 +10,7 @@ In this challenge, you are to exploit a program that prompts you to enter a stri
 
 #### Environment Setup
 Tools: `file`, `gdb`, `checksec`, `pwntools`
+
 OS: Ubuntu 22.04.5 LTS x86_64
 
 #### Initial Analysis
