@@ -84,6 +84,7 @@ To understand how this is possible, we must first understand an important detail
 4) RCX
 5) R8
 6) R9
+
 and then subsequent arguments are stored on the stack.
 
 Another important detail pertains to how `printf` works. In order for `printf` to function as intended, each format specifier in its format string must correspond to a variable argument passed after the format string. 
