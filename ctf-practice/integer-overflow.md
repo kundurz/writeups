@@ -1,4 +1,4 @@
-# cast vulnerability 
+# integer overflow
 
 **CTF**: pwn-style challenge <br>
 **Category**: Binary Exploitation <br>
