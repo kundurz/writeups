@@ -1,4 +1,4 @@
-# array vulnerability 
+# Out-of-bounds read
 
 **CTF**: pwn-style challenge <br>
 **Category**: Binary Exploitation <br>
