@@ -1,7 +1,7 @@
 # string overread
 
-**CTF**: pwn-style challenge
-**Category**: Binary Exploitation
+**CTF**: pwn-style challenge<br>
+**Category**: Binary Exploitation<br>
 **Tags:** `buffer-overflow`, `string-overread`, `information-disclosure`
 
 **Writeup by:** Linus Kundur-Zourntos
@@ -19,8 +19,9 @@ You said: MY_PAYLOAD
 ```
 
 #### Environment Setup
-Tools: `file`, `gdb,` `checksec`
-OS: Ubuntu 22.04.5 LTS x86_64
+Tools: `file`, `gdb,` `checksec`<br>
+OS: Ubuntu 22.04.5 LTS x86_64<br>
+
 #### Initial analysis
 `file` and `checksec` are used together to gather information on the executable.
 
